@@ -2,15 +2,21 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Reacker News
+  role: Developer
+  duration: 2018 &mdash; 2018
+  url: "https://reackernews.herokuapp.com/"
+  description: A news aggregator that enables users to search for articles based on keywords or phrases. Built with React, Javascript, HTML, CSS, Hacker News API, and Heroku.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Blockchain
+  role: Developer
+  duration: 2018 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: A simple blockchain that allows multiple nodes to connect to a local blockchain and competitively mine and validate new blocks. Built with Python, Flask, and APScheduler.
+
+- project: Twitter Mining
+  role: Developer
+  duration: 2018 &mdash; 2018
+  # url: "#"
+  description: Using Twitter data to compare the popularity of programming languages along with retrieving their tutorial links. Built with Twitter Streaming API, Python, and Pandas.
