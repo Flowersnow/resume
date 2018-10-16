@@ -6,17 +6,17 @@
   role: Developer
   duration: 2018 &mdash; 2018
   url: "https://reackernews.herokuapp.com/"
-  description: A news aggregator that enables users to search for articles based on keywords or phrases. Built with React, Javascript, HTML, CSS, Hacker News API, and Heroku.
+  description: A news aggregator that enables users to search for the latest technology articles based on keywords or phrases. Built with React, Javascript, HTML, CSS, Hacker News API, and Heroku.
 
 # Springfield Community Outreach Group
 - project: Blockchain
   role: Developer
   duration: 2018 &mdash; Present
   # url: "#"
-  description: A simple blockchain that allows multiple nodes to connect to a local blockchain and competitively mine and validate new blocks. Built with Python, Flask, and APScheduler.
+  description: A simple blockchain that allows multiple nodes to connect to a local blockchain and competitively mine and validate new blocks. Explored the benefits and socioeconomic impacts of blockchain such as social scalability and decentralization. Built with Python, Flask, and APScheduler.
 
 - project: Twitter Mining
   role: Developer
   duration: 2018 &mdash; 2018
   # url: "#"
-  description: Using Twitter data to compare the popularity of programming languages along with retrieving their tutorial links. Built with Twitter Streaming API, Python, and Pandas.
+  description: Using Twitter data to compare the popularity of programming languages along with retrieving their tutorial links. Practiced and learned statistical methods and cleaning up data efficiently with Pandas. Built with Twitter Streaming API, Python, and Pandas.

@@ -24,7 +24,7 @@ resume_contact_email:           "se77enn@gmail.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>I have a 
-strong interest in web development, distributed systems, and algorithms and their applications in modern technology. 
+strong interest in web development, distributed systems, and algorithms and their socioeconomic value and applications in modern technology. 
 I am seeking opportunities
 that allow me to integrate my academic background and my 
 strong personal attributes, thereby facilitating success in a work-related environment.</p>"
@@ -44,7 +44,7 @@ resume_section_skills:          true
 #resume_section_recognition:     true
 #resume_section_links:           true
 #resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
