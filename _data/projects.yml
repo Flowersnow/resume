@@ -13,7 +13,7 @@
   role: Developer
   duration: 2018 &mdash; Present
   # url: "#"
-  description: A simple blockchain that allows multiple nodes to connect to a local blockchain and competitively mine and validate new blocks. Explored the benefits and socioeconomic impacts of blockchain such as social scalability and decentralization. Built with Python, Flask, and APScheduler.
+  description: A simple blockchain that allows multiple nodes to connect to a local blockchain and competitively mine and validate new blocks. Explored the benefits and socioeconomic impacts of blockchain such as social scalability and decentralization. The secret to Bitcoin’s success is its potential to minimize trust and benefit participants. Built with Python, Flask, and APScheduler.
 
 - project: Twitter Mining
   role: Developer
