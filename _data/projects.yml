@@ -7,6 +7,12 @@
   duration: 2018 &mdash; 2018
   url: "https://reackernews.herokuapp.com/"
   description: A news aggregator that enables users to search for the latest technology articles based on keywords or phrases. Built with React, Javascript, HTML, CSS, Hacker News API, and Heroku.
+  
+- project: Algos of Wall Street
+  role: Developer
+  duration: 2018 &mdash; 2018
+  url: "https://asciinema.org/a/tL9bJOQDuexR2ToCrATZnwz0Z?fbclid=IwAR3tpTXJllDCqyDCxJvvwdy9gi9XPgQHIMdxOYvLnQaORG43XxaPWxOJ5hE"
+  description: A stock trading application that retrieves real time stock prices of a particular equity to determine whether or not to buy or sell the stock. The program uses AlphaVantage Intraday API to retrieve live stock information and utilizes the mean reversion model to determine the buy or sell signal. This program is valuable as it will benefit trading firms by strengthening their decision to either buy or sell a particular stock. Built with Rust.
 
 # Springfield Community Outreach Group
 - project: Blockchain
