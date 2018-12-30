@@ -11,7 +11,7 @@
 - project: Algos of Wall Street
   role: Developer
   duration: 2018 &mdash; 2018
-  url: "https://asciinema.org/a/tL9bJOQDuexR2ToCrATZnwz0Z?fbclid=IwAR3tpTXJllDCqyDCxJvvwdy9gi9XPgQHIMdxOYvLnQaORG43XxaPWxOJ5hE"
+  url: "https://github.com/Flowersnow/CS311-Project"
   description: A stock trading application that retrieves real time stock prices of an equity to determine whether or not to buy or sell the stock. The program uses AlphaVantage Intraday API to retrieve live stock information and utilizes the mean reversion model to determine the buy or sell signal. This program is valuable as it will benefit trading firms by strengthening their decision to either buy or sell a stock. Built with Rust and AlphaVantage API.
 
 # Springfield Community Outreach Group
