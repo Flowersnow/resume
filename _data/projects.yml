@@ -14,6 +14,12 @@
   url: "https://github.com/Flowersnow/CS311-Project"
   description: A stock trading application that retrieves real time stock prices of an equity to determine whether or not to buy or sell the stock. The program uses AlphaVantage Intraday API to retrieve live stock information and utilizes the mean reversion model to determine the buy or sell signal. This program is valuable as it will benefit trading firms by strengthening their decision to either buy or sell a stock. Built with Rust and AlphaVantage API.
 
+- project: InsightFacade
+  role: Developer
+  duration: 2018 &mdash; 2018
+  url: "https://insightfacade-310.herokuapp.com/"
+  description: InsightFacade is a full-stack web application that provides a query system for UBC courses and room information. Data, such as room capacity, building names, course averages, course instructors, and pass/fail rates, can be queried and filtered through a WebUI.  Room and course datasets are parsed from UBC PAIR (accessible only for UBC students and faculty), which provides real data from course sections. Built with Backend – Node, TypeScript; Frontend – JavaScript, HTML, CSS; Testing - Chai, Mocha, Karma; Hosted on Heroku. This was a term project for CPSC 310 Introduction to Software Engineering. Consult the official repo for full specifications about the project such as endpoints, EBNF, etc.
+
 - project: Disassembler
   role: Developer
   duration: 2019 &mdash; 2019
