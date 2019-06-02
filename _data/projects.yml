@@ -26,14 +26,14 @@
   url: "https://asciinema.org/a/M9oPIQigkcCjwJL0shHEWVMeL?autoplay=1"
   description: A C program that reads binary data (machine instructions) and manipulates raw bytes to produce the corresponding Y86 assembly instructions. This is synonymous with the FETCH stage of the CPU. Learned how machine instructions are represented in memory and how to translate between machine code and Y86 assembly. Greater understanding of pipeline implementation in CPUs.
 
-- project: FTP Client
+- project: FTP Client & Server
   role: Developer
   duration: 2019 &mdash; 2019
-  url: "https://asciinema.org/a/SoygYx8zBqMkQws5AA4vUICVU?autoplay=1"
-  description: A simple FTP client created with Java sockets. Learned how TCP/IP connections work and how to exchange data over the connection. Greater understanding of application and transport level protocols along with socket communication.
+  url: "https://asciinema.org/a/clsN1cO8MQCQHqo6lajJehKkb?autoplay=1"
+  description: A simple FTP client and concurrent server which supports basic FTP commands according to RFC 959. The server supports Image and ASCII type file transfers in Stream mode, and file system navigation features such as cd and directory listing.
   
-- project: Blockchain
+- project: DNS Resolver Client
   role: Developer
-  duration: 2018 &mdash; Present
-  # url: "#"
-  description: A simple blockchain that allows multiple nodes to connect to a local blockchain and competitively mine and validate new blocks. Explored the benefits and socioeconomic impacts of blockchain such as social scalability and decentralization. The secret to Bitcoin’s success is its potential to minimize trust and benefit participants. Built with Python, Flask, and APScheduler.
+  duration: 2019 &mdash; 2019
+  url: "https://asciinema.org/a/zB0FruScfbdksITzEqqd32my3?autoplay=1"
+  description: A scaled back iterative DNS resolver client which allows users to interact with various DNS servers to resolve domain names (E.g www.google.ca) into IP addresses. The DNS client supports record types A (IPV4), AAAA (IPV6), CNAME, and NS. Implemented a Depth-First-Search traversal, cache, and CNAME prediction, which optimized performance by over 50%. 
