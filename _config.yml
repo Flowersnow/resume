@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Josh Cheung"
-resume_title:                   "Software Developer | Virology | Student"
+resume_title:                   "Software Engineer | Virology | Student"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "se77enn@gmail.com"
