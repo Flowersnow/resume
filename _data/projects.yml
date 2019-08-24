@@ -35,5 +35,5 @@
 - project: DNS Resolver Client
   role: Developer
   duration: 2019 &mdash; 2019
-  url: "https://asciinema.org/a/zB0FruScfbdksITzEqqd32my3?autoplay=1"
+  url: "https://github.com/se77enn/DNS-Resolver-Client"
   description: A scaled back iterative DNS resolver client which allows users to interact with various DNS servers to resolve domain names (E.g www.google.ca) into IP addresses. The DNS client supports record types A (IPV4), AAAA (IPV6), CNAME, and NS. Implemented a Depth-First-Search traversal, cache, and CNAME prediction, which optimized performance by over 50%. 
