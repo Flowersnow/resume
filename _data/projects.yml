@@ -20,7 +20,7 @@
   url: "https://insightfacade-310.herokuapp.com/"
   description: InsightFacade is a full-stack web application that provides a query system for UBC courses and room information. Data, such as room capacity, building names, course averages, course instructors, and pass/fail rates, can be queried and filtered through a WebUI.  Room and course datasets are parsed from UBC PAIR (accessible only for UBC students and faculty), which provides real data from course sections. Built with Backend – Node, TypeScript; Frontend – JavaScript, HTML, CSS; Testing - Chai, Mocha, Karma; Hosted on Heroku. This was a term project for CPSC 310 Introduction to Software Engineering. Consult the official repo for full specifications about the project such as endpoints, EBNF, etc.
 
-- project: Disassembler
+- project: Y86 Disassembler
   role: Developer
   duration: 2019 &mdash; 2019
   url: "https://asciinema.org/a/M9oPIQigkcCjwJL0shHEWVMeL?autoplay=1"
