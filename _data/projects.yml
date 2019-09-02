@@ -7,7 +7,7 @@
   duration: 2018 &mdash; 2018
   url: "https://reackernews.herokuapp.com/"
   description: A news aggregator that enables users to search for the latest technology articles based on keywords or phrases. Built with React, Javascript, HTML, CSS, Hacker News API, and Heroku.
-  
+
 - project: Algos of Wall Street
   role: Developer
   duration: 2018 &mdash; 2018
@@ -31,9 +31,9 @@
   duration: 2019 &mdash; 2019
   url: "https://asciinema.org/a/clsN1cO8MQCQHqo6lajJehKkb?autoplay=1"
   description: A simple FTP client and concurrent server which supports basic FTP commands according to RFC 959. The server supports Image and ASCII type file transfers in Stream mode, and file system navigation features such as cd and directory listing.
-  
+
 - project: DNS Resolver Client
   role: Developer
   duration: 2019 &mdash; 2019
   url: "https://github.com/se77enn/DNS-Resolver-Client"
-  description: A scaled back iterative DNS resolver client which allows users to interact with various DNS servers to resolve domain names (E.g www.google.ca) into IP addresses. The DNS client supports record types A (IPV4), AAAA (IPV6), CNAME, and NS. Implemented a Depth-First-Search traversal, cache, and CNAME prediction, which optimized performance by over 50%. 
+  description: A scaled back iterative DNS resolver client which allows users to interact with various DNS servers to resolve domain names (E.g www.google.ca) into IP addresses. The DNS client supports record types A (IPV4), AAAA (IPV6), CNAME, and NS. Implemented a Depth-First-Search traversal, polling, cache, and CNAME prediction, which optimized performance by over 50%.
