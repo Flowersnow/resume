@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Josh Cheung"
-resume_title:                   "Software Engineer | Student"
+resume_title:                   "Software Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "se77enn@gmail.com"
@@ -24,7 +24,7 @@ resume_contact_email:           "se77enn@gmail.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>I have a 
-strong interest in web development, distributed/operating systems, programming languages, and algorithms and their socioeconomic value and applications in modern technology. My internship experience has improved and solidified my
+strong interest in web development, distributed/operating systems, and machine learning and their socioeconomic value and applications in modern technology. My internship experience has improved and solidified my
 communication, adaptability, and industriousness skills. I am eager and passionate about solving real world
 problems with software and improving the quality of life for those who are less fortunate.
 I am seeking opportunities
